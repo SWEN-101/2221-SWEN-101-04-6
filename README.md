@@ -8,7 +8,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 <_each team member clones repo and then edits/replace with their name below_>
 - Kyle Kuehne
 - Oscar Li
-- MEMBER03
+- Muhammad Yousaf Iqbal
 - MEMBER04
 
 
