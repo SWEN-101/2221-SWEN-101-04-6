@@ -9,6 +9,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Kyle Kuehne
 - Oscar Li
 - Muhammad Yousaf Iqbal
+- Daniel Jara
 - MEMBER04
 
 
