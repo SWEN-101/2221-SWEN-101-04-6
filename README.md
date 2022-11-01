@@ -10,7 +10,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Oscar Li
 - Muhammad Yousaf Iqbal
 - Daniel Jara
-- MEMBER04
+- Veronika Kirievskaya
 
 
 ## Prerequisites  <_add anything else that applies_>
