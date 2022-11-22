@@ -15,16 +15,16 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 
 ## Prerequisites  <_add anything else that applies_>
 
-- github accounts and basic github.io knowledge
--
--
+- Github accounts and basic github.io knowledge
+- Visual Studio experience.
+- Multi-computer languages known.
 
 ## How to access it or run it  <_add when applicable_>
 
 1. Clone the repository and go to the root directory.
-2.  
-3.  
-4.  
+2. Open folder in Visual Studio.
+3. Choose the file you want to work on.
+4. After working on file, save it and push it to Github.
 
 ## Known bugs and disclaimers
 (It may be the case that your implementation is not perfect...)
@@ -41,6 +41,7 @@ If any shortcomings, make clear what these are and where they are located.
 
 ## License
 
-<_replace with the type of license you will use for the project_> e.g. MIT License
+Dual License (Proprietary Software & GPLv3)
+
 
 See LICENSE for details.
