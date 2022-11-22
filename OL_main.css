@@ -78,7 +78,7 @@ body {
 
 .form__button {
     width: 100%;
-    padding: 1rem 2rem;
+    padding: 1rem 10rem;
     font-weight: bold;
     font-size: 1.1rem;
     color: #ffffff;
@@ -87,6 +87,21 @@ body {
     outline: none;
     cursor: pointer;
     background: var(--color-primary);
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #ffffff;
+    border: none;
+    border-radius: var(--border-radius);
+    outline: none;
+    cursor: pointer;
+    background: var(--color-primary);
+    display: block;
 }
 
 .form__button:hover {
