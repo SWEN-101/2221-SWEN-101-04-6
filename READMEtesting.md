@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8474670&assignment_repo_type=AssignmentRepo)
 # Project Name: Semesterly Text
 
-An online textbook borrowing system built in github.io .. etc.
+An online textbook borrowing system built in github.io
   
 ## Team 
 - Kyle Kuehne
@@ -25,10 +25,7 @@ An online textbook borrowing system built in github.io .. etc.
 4. After working on file, save it and push it to Github.
 
 ## Known bugs and disclaimers
-(It may be the case that your implementation is not perfect...)
-
-Document any known bug or nuisance.
-If any shortcomings, make clear what these are and where they are located.
+Link to Testing Document: https://docs.google.com/document/d/1qRCfl1MhSjAwAhZYXXkGV5nytkgzeuOvEEVSMievn8Y/edit?pli=1
 
 ## Link or full list of requirements
 Link: https://docs.google.com/document/d/1Qf_8V0Owq9LOJ1Avg0RYjkeaTFbaRAi-/edit
