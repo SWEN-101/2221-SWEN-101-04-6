@@ -31,11 +31,7 @@ Document any known bug or nuisance.
 If any shortcomings, make clear what these are and where they are located.
 
 ## Link or full list of requirements
- <_you could linkto the specific private board where your backlog is kept_>
-
-
-
-
+Link: https://docs.google.com/document/d/1Qf_8V0Owq9LOJ1Avg0RYjkeaTFbaRAi-/edit
 
 ## License
 
