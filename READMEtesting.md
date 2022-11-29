@@ -1,8 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8474670&assignment_repo_type=AssignmentRepo)
 # Project Name: Semesterly Text
-# Modify this document to expand any and all sections that are applicable for a better understanding from your users/testers/collaborators (remove this comment and other instructions areas for your FINAL release)
 
-An online textbook borrowing system built in github.io .. etc. <_replace with other platform requirements_>
+An online textbook borrowing system built in github.io .. etc.
   
 ## Team 
 - Kyle Kuehne
@@ -12,13 +11,13 @@ An online textbook borrowing system built in github.io .. etc. <_replace with ot
 - Veronika Kirievskaya
 
 
-## Prerequisites  <_add anything else that applies_>
+## Prerequisites  
 
 - Github accounts and basic github.io knowledge
 - Visual Studio experience.
 - Multi-computer languages known.
 
-## How to access it or run it  <_add when applicable_>
+## How to access it or run it
 
 1. Clone the repository and go to the root directory.
 2. Open folder in Visual Studio.
